@@ -37,6 +37,6 @@
    <plugin name="cordova-plugin-whitelist" source="npm"/>
    
    <!--Colocar icono app-->
-   <icon src="imagenes/persona_azul"/>
+   <icon src="imagenes/persona_azul.png"/>
   
   </widget>  
